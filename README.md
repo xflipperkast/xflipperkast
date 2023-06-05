@@ -53,7 +53,7 @@
 ###
 <br clear="both">
 <img src="https://github.com/xflipperkast/xflipperkast/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-###
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/11154546512">
