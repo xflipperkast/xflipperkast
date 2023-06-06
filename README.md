@@ -14,6 +14,7 @@
 ###
 
 <div align="left">
+    <h2 align="left">Languages i know!</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -57,6 +58,7 @@
 
 
 <div align="center">
+  <h2 align="left">Misc</h2>
   <a href="https://open.spotify.com/user/11154546512">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=11154546512" alt="Spotify recently played"  />
   </a>
