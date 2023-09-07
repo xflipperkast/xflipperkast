@@ -54,7 +54,7 @@
 
 ###
 <br clear="both">
-<img src="https://github.com/xflipperkast/xflipperkast/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/xflipperkast/xflipperkast/blob/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation" />
 
 
 <div align="center">
