@@ -33,7 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
 </div>
-###
 
 <h2 align="left">Socials:</h2>
 
