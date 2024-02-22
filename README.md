@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
 </div>
 
 <h2 align="left">Socials:</h2>
