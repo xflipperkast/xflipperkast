@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Flipperkast and I'm a Software developer student</h2>
+<h2 align="left">Hi 👋! My name is Flippy and I like to make random stuff</h2>
 
 ###
 
