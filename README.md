@@ -53,10 +53,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=xflipperkast&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xflipperkast&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
 <br />
 
 ## 🕹️ Contribution Graph
