@@ -80,11 +80,3 @@
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Donation" />
   </a>
 </div>
-
-<br />
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=xflipperkast&icon=0&color=0" alt="Visitor Counter" />
-  </a>
-</div>
